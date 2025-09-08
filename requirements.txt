@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+requests
+praw
+psycopg2-binary
+sqlalchemy
+pymongo
+python-dotenv
